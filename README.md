@@ -1,12 +1,8 @@
 # DigitalAidSeattle-challenge
-Technical challenge submission for Digital Aid Seattle's volunteer frontend position.
-
-<!-- ## [Live App](https://peaceful-everglades-79165.herokuapp.com/) -->
-
-
-## **_Description_**
 
 Technical challenge submission for Digital Aid Seattle's volunteer frontend position. Primarily built with React and MUI.
+
+<!-- ## [Live App](https://peaceful-everglades-79165.herokuapp.com/) -->
 
 
 ## **_Local Environment Requirements_**
