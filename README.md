@@ -2,11 +2,11 @@
 
 Technical challenge submission for Digital Aid Seattle's volunteer frontend position. Primarily built with React and MUI.
 
-<!-- ## [Live App](https://peaceful-everglades-79165.herokuapp.com/) -->
+## [Live App](https://digital-aid-seattle-challenge-2g0glj6i2-sbassong.vercel.app/)
 
 
 ## **_Local Environment Requirements_**
-Node, npm, and PostgreSQL are necessary to run this application. If needed, please follow the installation guidelines in the  **[Env-requirements section](#env-requirements)** section.
+Node and npm are necessary to run this application. If needed, please follow the installation guidelines in the  **[Env-requirements section](#env-requirements)** section.
 
 
 ## **_Getting Started On localhost_**
