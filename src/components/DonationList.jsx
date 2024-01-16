@@ -82,7 +82,7 @@ export default function DonationList({ donationsList, handleDonationsListUpdate,
         </FormControl>
 
       <Box sx={{m: 1}}>
-        <h4>total donations: {list?.length}</h4>
+        <h4>total donations: {list?.length > 0 ? list.length : 0}</h4>
         <h4>total amount donated: {totalAmountOfDonations}</h4>
       </Box>
 
