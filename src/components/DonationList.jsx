@@ -56,7 +56,7 @@ export default function DonationList({ donationsList, handleDonationsListUpdate,
   // handles refreshing list on filter
   useEffect(() => {
     if (filterType === 'all') setList(donationsList)
-    else setList(donationsList.filter((item) => item.typeOfDonation === filterType))
+    else setList(donationsList?.filter((item) => item.typeOfDonation === filterType))
     handleTotalAmountDonated();
   }, [filterType, donationsList]); // watches filterType change and additions or updates to donationsList state
 
